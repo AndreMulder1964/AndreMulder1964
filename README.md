@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreMulder1964
 - 👀 I’m interested in different languages. 
-- I have don some vb , c++, java 
-- 🌱 I’m currently learning  c# and try te make a adroid app. 
+- I have don some vb , c++, java  , assembly, DirectX
+- 🌱 I’m currently learning DirectX12
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on My930phone@outlook.com
 
